@@ -10,44 +10,45 @@ Arquivos para aprendizado/fixação de conteudos relacionados à Cultura DevOps,
 -Visa melhorar empatia no time.
 
 **História DevOps:**
--Surgiu da comunidade
--2001 no manifesto agil
--Mudança na entrega do software
--União entre cliente e negocio
--Entregas menores e constantes
--2003 google estruturou o SRE (Site Reliability Engineering)
--GIT surgiu em 2005 (O Puppet tb, ele serve pra automatizar configurações.)
--Patrick Debois (Pronuncia: Patric Debuá) pai do termo DevOps, após ver palestra do Flickr 10+ deploys por dia: Dev & Ops
--Ansible lançado em 2012 para automatizar processos
--2013 O Projeto Fenix (The Phoenix Project) |Livro
+- Surgiu da comunidade
+- 2001 no manifesto agil
+- Mudança na entrega do software
+- União entre cliente e negocio
+- Entregas menores e constantes
+- 2003 google estruturou o SRE (Site Reliability Engineering)
+- GIT surgiu em 2005 (O Puppet tb, ele serve pra automatizar configurações.)
+- Patrick Debois (Pronuncia: Patric Debuá) pai do termo DevOps, após ver palestra do Flickr 10+ deploys por dia: Dev & Ops
+- Ansible lançado em 2012 para automatizar processos
+- 2013 O Projeto Fenix (The Phoenix Project) |Livro
 
 **Pilares do DevOps:**
--Cultura: colaborativa, união
--Automação: ferramentas de automação, pipelines automatizada
--Medição: métricas do ciclo, monitoração e logs
--Compartilhamento: feedback, responsabilidades
+- Cultura: colaborativa, união
+- Automação: ferramentas de automação, pipelines automatizada
+- Medição: métricas do ciclo, monitoração e logs
+- Compartilhamento: feedback, responsabilidades
+- Lean:Técnica desenvolvida pela Toyota, visando PERFEIÇÃO
 
 **Caracteristicas do DevOps:**
--Desenvolvimento Ágil;
--Ciclo de entregas rápidas de versões do software;
--Diminuição na complexidade do software;
--Integração Contínua (CI);
--Entrega Contínua (CD);
--Gerencia de Configurações;
--Centralização de logs;
--Monitoração e coleta de métricas;
--Infra como código;
--Ambiente Automatizado;
+- Desenvolvimento Ágil;
+- Ciclo de entregas rápidas de versões do software;
+- Diminuição na complexidade do software;
+- Integração Contínua (CI);
+- Entrega Contínua (CD);
+- Gerencia de Configurações;
+- Centralização de logs;
+- Monitoração e coleta de métricas;
+- Infra como código;
+- Ambiente Automatizado;
 
 **Beneficios do DevOps:**
--Melhor comunicação e colaboração entre a equipe
--Melhor qualidade e maior frequencia de entrega
--Redução de falhas na implementação de mudanças
--Aumento do valor do negócio
+- Melhor comunicação e colaboração entre a equipe
+- Melhor qualidade e maior frequencia de entrega
+- Redução de falhas na implementação de mudanças
+- Aumento do valor do negócio
 
 Metodologias base pro DevOps:
--Lean
--Scrum
--Kanban
+- Lean
+- Scrum
+- Kanban
 
 ***SEMPRE OLHE PARA O PROJETO E PROCURE ONDE ELE PODE SER MELHORADO***

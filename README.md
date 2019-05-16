@@ -84,8 +84,9 @@ Simplicidade
 ## DevOps ou SRE, eis a questão ? 
 Eu acredito serem assuntos complementares, pois são focos parecidos com objetivos bem definidos
 onde é possivel agregar valor com aplicação de parte de ambos modos de gestão de Infraestrutura.
+Alguns autores, dizem que é uma boa prática cada repositório ter ao menos um arquivo de configuração de ambiente em seu repositório com uma breve descrição de uso, para uma fácil reprodução e teste.
 
-
+A partir daqui, copiado de: https://gitlab.com/gutocarvalho/devops-tips/blob/master/estudos.md para servir como referencia de estudos.
 Muitas pessoas perguntam o que devem estudar ou quais cursos devem fazer para entrar de cabeça no mundo DevOps.
 Não é uma resposta fácil, mas tenho algumas indicações.
 
@@ -119,18 +120,18 @@ http://whatis.techtarget.com/definition/CALMS
 Entenda o que é ICE
 http://radar.oreilly.com/2015/01/devops-keeps-it-cool-with-ice.html
 Entenda o que é DevSecOps
- http://www.devsecops.org/blog/2015/2/15/what-is-devsecops    
+ http://www.devsecops.org/blog/2015/2/15/what-is-devsecops
 
 3. ROTEIRO DE ESTUDOS
 Essa sugestão de estudos é baseada no CAMS do Willis e Edwards.
 
 3.1  Cultura
 
-Estude a metodologia ágil de desenvovlimento
+Estude a metodologia ágil de desenvolvimento (Ágile, XP)
 Estude metodologias ágeis em geral
-Estude Scrum
-Estude Kanban
-Estude Lean
+- Scrum
+- Kanban
+- Lean
 Entenda o que é uma cultura de colaboração e feedback.
 
 Faça um exercicio e tente enxergar os principais problemas culturais do
@@ -138,10 +139,10 @@ seu time/organização e encontre uma forma corrigir tais problemas adaptando es
 
 3.2 Automação
 
-Estude virtualização
-Estude cloud computing
-Estude Mark Burgess e gerência de configurações
-Estude infraestrutura como código
+Estude virtualização (Virtualbox, Vagrant)
+Estude cloud computing (Amazon, DigitalOcean, Azure)
+Estude Mark Burgess e gerência de configurações (Chef, CFEngine)
+Estude infraestrutura como código (Ansible, Terraform)
 Conheça pelo menos duas ferramentas de Gerência de Configuração (CFEngine e Puppet)
 Conheça pelo menos duas ferramentas de Orquestração (Fabric e Ansible)
 Entenda o que é VCS (Version Control System)
@@ -154,7 +155,7 @@ Estude TDD/BDD/ATDD
 Estude Load Testing
 Estude Stress Testing
 Estude Security Testing
-Estude Containers e Docker
+Estude Containers e Docker (containerd e runc são boas alternativas ao docker, o funcionamento é parecido)
 Estude Microservicos
 Estude ferramentas para fazer provisionamento automatizado
 Estude ferramentas de autoserviço
@@ -169,7 +170,7 @@ Labs sugeridos
 Tente subir uma stack full de automação (ex. puppet)
 
 Tente automatizar confs simples do OS (ex. centos)
-Tente automatizar a instalacao e configuracao de um APP (ex. apache)
+Tente automatizar a instalacao e configuracao de um APP (ex. apache ou nginx)
 
 
 Tente provisionar VMs ou Containers de forma automatizada via autoserviço
@@ -224,5 +225,3 @@ Evite procurar formação DevOps, o ideal é que crie o seu roteiro de estudos.
 Se encontrar formação DevOps por ai, tome muito cuidado para não ser uma empresa inventando algo só para faturar em cima da Buzzword.
 Como voce viu DevOps é algo amplo, dificil de colocar em um curso de 24 ou 40 horas.
 Agora é começar os estudos, divirta-se!
-
-Copiado de: https://gitlab.com/gutocarvalho/devops-tips/blob/master/estudos.md

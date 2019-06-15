@@ -7,4 +7,4 @@
 
 # .tfvars files
 *.tfvars
-files/*
+files/*.pdf

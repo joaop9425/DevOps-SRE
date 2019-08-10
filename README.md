@@ -4,13 +4,14 @@ Arquivos para aprendizado/fixação de conteudos relacionados à Cultura DevOps,
 
 ## DevOps
 
-O termo DevOps tem sido muito discutido ultimamente, existem grande conferencias até !
+O termo DevOps tem sido muito discutido ultimamente, existem grandes conferencias até !
 
 **O que é DevOps:**
--É a combinação de culturas e filosofias, práticas e ferramentas que aumentam a capacidade de uma empresa distribuir aplicativos e serviços.
--Consiste no alinhamento de todo o time envolvido no projeto, englobando processos, ferramentas e responsabilidades.
--Representa uma mudança na cultura de TI com foco na entrega rápida através da adoção de práticas ágeis.
--Visa melhorar empatia no time.
+
+- É a combinação de culturas e filosofias, práticas e ferramentas que aumentam a capacidade de uma empresa distribuir aplicativos e serviços.
+- Consiste no alinhamento de todo o time envolvido no projeto, englobando processos, ferramentas e responsabilidades.
+- Representa uma mudança na cultura de TI com foco na entrega rápida através da adoção de práticas ágeis.
+- Visa melhorar empatia no time.
 
 **História DevOps:**
 

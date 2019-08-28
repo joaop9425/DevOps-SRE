@@ -11,3 +11,6 @@ files/*.pdf
 
 .referencias/
 referencias/
+
+.secret
+.history/
